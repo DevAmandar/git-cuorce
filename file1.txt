@@ -10,4 +10,6 @@ step 5
 
 step 6
 
+step 6.5
+
 step 7
